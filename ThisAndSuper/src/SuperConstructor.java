@@ -2,7 +2,7 @@
 //2.using super() we can initialize parent class property.
 
 //Note: super() must be used inside the constructor and that 
-//must be the first statement.
+//must be the first statement..
 
 class GrandFather {
 	String name;
